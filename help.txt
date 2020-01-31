@@ -1,0 +1,4 @@
+Sales Prediction for a large Supermarket
+
+The data scientists at BigMart have collected sales data for 1559 products across 10 stores in different cities for an entire year. 
+You will build a predictive model to forecast the sales of each product at a particular store.
